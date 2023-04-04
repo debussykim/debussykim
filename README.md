@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23ECDECB&title_bg=%2371502E&icon=&icon_color=%23E7E7E7&title=hits+%F0%9F%A7%B8++&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdebussykim&count_bg=%23E2D1B6&title_bg=%23756353&icon=&icon_color=%23E7E7E7&title=hits+%F0%9F%A7%B8++&edge_flat=false)](https://hits.seeyoufarm.com)
 
