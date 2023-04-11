@@ -1,11 +1,7 @@
+[![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=80&section=header&text=Hello,World🌏&fontSize=40&animation=twinkling&descAlignY=50)](https://github.com/debussykim)
+
 <div align=center>
 
-
-![pngegg4-1](https://user-images.githubusercontent.com/118197952/230810668-d976a115-a105-4f4b-abde-d11bca94712d.png)
-![pngegg2](https://user-images.githubusercontent.com/118197952/230810790-80334774-c66e-4685-adc7-2495df24c591.png)
-![pngegg3](https://user-images.githubusercontent.com/118197952/230810791-ef700bde-4089-4650-9ab0-a3aa761c60bd.png)
-
-<br>
 
 ### Tech Stack 🌱
 
